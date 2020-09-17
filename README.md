@@ -2,7 +2,7 @@
 
 ALab-USSD is a USSD service built on top of  [Africa's talking](africastalking.com)'s platform for mobile solutions.
 
-This was originally a challenge raised by REDI link. Although the solution was originally made considering africa's talking platform, this app can be used for any USSD Service provider providing the same methods of communicating with a backend USSD app.
+This was originally a challenge raised by a [friend](https://github.com/Redi22). Although the solution was originally made considering africa's talking platform, this app can be used for any USSD Service provider providing the same methods of communicating with a backend USSD app.
 
 The service provided by this app is access to up-to-date cryptocurrency info. The data found through this app can be found on [coingecko](https://www.coingecko.com/). There API gives out valuable info and is well documented.  Check out there API explorer [here](https://www.coingecko.com/en/api/#explore-api).
 
