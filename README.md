@@ -22,4 +22,4 @@ Once the script is up and running, make sure the USSD service provider is tunnel
 
 ## MODIFICATION
 
-Feel free to add more crypto-coins. The whole idea was to make it simple for people to go through it, thus the modular approach. More api endpoints can be included by adding little info and making minor tweaks to the services.js. The same goes for adding coins, just add some metadata to the coins.js.
+Feel free to add more crypto-coins. The whole idea was to make it simple for people to go through it, thus the modular approach. More api endpoints can be included by adding little info and making minor tweaks to the services.js. The same goes for adding coins, just add some metadata to the coins.js. The SUPPORTED something variable in either *Currency.js, Services.js, Coins.js* is the text displayed to the user and the INFO object is the corresponding representation of that object to the api.
