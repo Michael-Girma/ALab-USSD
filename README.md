@@ -2,7 +2,7 @@
 
 ALab-USSD is a USSD service built on top of  [Africa's talking](africastalking.com)'s platform for mobile solutions.
 
-This was originally a challenge raised by a [friend](https://github.com/Redi22). Although the solution was originally made considering africa's talking platform, this app can be used for any USSD Service provider providing the same methods of communicating with a backend USSD app.
+This was originally a challenge raised by a [friend](https://github.com/Redi22). Although the solution was originally made considering africa's talking platform, this app can be used with any USSD Service provider providing the same methods of communication with a backend USSD app.
 
 The service provided by this app is access to up-to-date cryptocurrency info. The data found through this app can be found on [coingecko](https://www.coingecko.com/). There API gives out valuable info and is well documented.  Check out there API explorer [here](https://www.coingecko.com/en/api/#explore-api).
 
@@ -10,7 +10,7 @@ The service provided by this app is access to up-to-date cryptocurrency info. Th
 
 ### Starting the script
 
-All that is needed to get the script to run is installing the dependencies and running the start script.
+All that is needed to get the script to run is installing the dependencies and running the start script. Simply execute the line below  - assuming npm is installed.
 
 ```
 npm install && npm start
@@ -18,7 +18,7 @@ npm install && npm start
 
 ### Tunneling Traffic
 
-Once the script is up and running, make sure the USSD service provider is tunneling traffic to the IP and PORT the script is running on.
+Once the script is up and running, make sure the USSD service provider is tunneling traffic to the IP and PORT the script is listening on.
 
 ## MODIFICATION
 
